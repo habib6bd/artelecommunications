@@ -1,0 +1,104 @@
+
+
+
+
+
+/* topbar */
+.fb-1, .email-1, .call-1 {
+    color: #D21E2B;
+}
+
+/* navbar */
+
+
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active{
+   color: #D21E2B; 
+   border-radius: 5px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #212529;
+}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus{
+    color: #D21E2B;
+    background: #212529;
+    border-radius: 7px;
+}
+
+
+/* notice */
+
+.swiper-container{
+    height: auto;
+}
+ .swiper-wrapper{
+     align-items: center;
+ }
+ .swiper-slide{
+width: auto;
+height: auto;
+border-radius: 7px;
+ }
+
+ .swiper-slide .img{
+    width: auto;
+    height: auto;
+    border-radius: 7px;
+     }
+
+/* welcome section */
+.welcome{
+    background-color: #F8F9FA;
+}
+.welcome-1{
+    color: #D21E2B;
+}
+.btn-secondary{
+    background-color: #D21E2B;
+    border: #D21E2B;
+}
+.btn-secondary:hover{
+    background-color: #212529;
+    border: #212529;
+}
+
+/* we do section */
+.we-do h5{
+    text-decoration: underline;
+}
+.we-do .pack{
+    font-weight: bold;
+}
+
+.we-do, .list-group-item{
+    color: white;
+    background-color: #D21E2B;
+}
+
+.btn-2 .btn-secondary{
+    background-color: #212529;
+    border: #212529
+}
+.btn-2 .btn-secondary:hover{
+    color: black;
+    background-color: white;
+    border: white;
+}
+
+/* footer */
+footer h3, h2{
+    color: #D21E2B;
+}
+.footer-bar{
+    color: #D21E2B;
+}
+
+
+/* contact-page */
+
+
+/* ftp list */
+
+.ftp-list .btn{
+    margin: 15px;
+}
